@@ -20,7 +20,7 @@ while(True):
 				#harry
 		if choiceb==1:
 			print("\nwhat do you want to log?\nfor exercise(1)\nfor diet(2)")
-			choicec = int(input("Enter from (1, 2):"))
+			choicec = input("Enter from (1, 2):")
 			
 			#exercise for harry
 			if choicec==1:
